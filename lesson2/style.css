@@ -13,6 +13,7 @@ ul{
 a{
 	text-decoration: none;
 	color:blue;
+	font-weight: bold
 }
 
 header{
@@ -68,5 +69,21 @@ article{
 
 footer{
 	margin-top:10px;
+}
+
+.contact-page-content{
+	text-align: center;
+	margin-top: 150px;
+    margin-bottom: 200px;
+}
+
+.contactinfo{
+	font-weight: bold;
+	color:blue;
+}
+
+
+span{
+	color:grey;
 }
 
