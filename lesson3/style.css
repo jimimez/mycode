@@ -1,0 +1,213 @@
+body{
+	
+	padding-bottom:10px;
+	margin:0;
+}
+
+.container{
+
+	padding-left:30px;
+}
+
+p{
+	margin:0;
+	margin-left: 30px;
+}
+
+ul{
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+}
+
+a{
+	text-decoration: none;
+	color:blue;
+	font-weight: bold
+}
+
+header{
+font-family: "BPG Nino Mtavruli", sans-serif;
+
+
+}
+
+nav{
+	display: inline-block;
+}
+
+li{
+	display: inline-block;
+	margin-left: 30px;
+}
+
+.mtavari{
+	color:red;
+}
+
+h3{
+	color:red;
+	display: inline-block;
+}
+.img{
+	
+	margin-top: 25px;
+}
+
+.date{
+	padding-left: 5px;
+	width: 50px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    font-size: 40px;
+    margin-top:40px;
+}
+
+.month{
+	color: blue;
+}
+
+article{
+	
+	font-size:12px;
+}
+
+.face{
+	height:20px;
+	border-right:1px solid blue;
+	padding-right:10px;
+	display:inline-block;
+	width:10px;
+}
+
+.you{
+	padding-left:10px;
+	display:inline-block;
+	width:20px;
+}
+
+footer{
+	margin-top:10px;
+}
+
+.contact-page-content{
+padding-top:50px;
+padding-bottom:50px;
+	background: #e0e0d1;
+	
+	margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.contactinfo{
+	font-weight: bold;
+	color:blue;
+}
+
+
+span{
+	color:grey;
+}
+
+img{
+	vertical-align: top;
+	display:inline-block;
+}
+
+.article-text{
+	width:60%;
+	display:inline-block;
+}
+
+h6{
+	font-size: 13px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+.p2{
+	margin-top: 20px;
+}
+
+.month{
+	font-size: 21px;
+	margin-top: 5px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+.google-map{
+	width:60%;
+	margin-left:40px;
+}
+
+.contact-text{
+	margin-left: 40px;
+    width: 25%;
+
+	display:inline-block;
+}
+
+.face2{
+	margin-left:20px;
+}
+
+.html{
+	margin-left:20px;
+}
+
+.news-container{
+	width: 80%;
+	margin:auto;
+}
+
+.news-title{
+	margin-top:70px;
+}
+
+.featured{
+	padding-right: 5px;
+	color:black;
+	border-right: 1px solid black;
+}
+
+.news-item img{
+	width:25%;
+	max-width: 289px;
+	display: inline-block;
+	
+}
+
+.news-item{
+	background: #e0e0d1;
+	    padding: 7px;
+
+	display: inline-block;
+}
+
+
+
+.news-item-text{
+	margin-left: 20px;
+	font-size: 13px;
+	max-width: 200px;
+	display:inline-block;
+	width:60%;
+}
+
+.news-item-container{
+	margin-top:20px;
+	margin-bottom: 50px;
+}
+
+.news-banner{
+	width: 100%;
+}
+
+.news-h3{
+
+	margin-left:20px;
+}
+
+.news-item2{
+	margin-left:20px;
+}
